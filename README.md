@@ -15,3 +15,8 @@ There are 5 drivers that I wrote, which are the following:
     /Drivers/motor      (Interfaces with motors)
 
 This repository contains all the files used to run the code on the STM32F411 MCU for sake of maintaining everything together.
+The directory:
+
+    /docs/html
+
+Contains doxygen documentation for the functions written in the custon drivers discussed above.
