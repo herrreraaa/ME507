@@ -1,0 +1,4 @@
+../Drivers/Ultrasonic/UltraSonic.c:31:6:UltraSonicStartPulse	8	static
+../Drivers/Ultrasonic/UltraSonic.c:40:6:UltraSonicPrepInterrupt	8	static
+../Drivers/Ultrasonic/UltraSonic.c:48:10:UltraSonicGetDist	4	static
+../Drivers/Ultrasonic/UltraSonic.c:57:6:UltraSonicCalcDist	24	static

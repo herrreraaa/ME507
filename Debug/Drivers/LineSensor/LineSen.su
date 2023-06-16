@@ -1,0 +1,2 @@
+../Drivers/LineSensor/LineSen.c:15:9:LineSenGetStatusLEFT	8	static
+../Drivers/LineSensor/LineSen.c:29:9:LineSenGetStatusRIGHT	8	static

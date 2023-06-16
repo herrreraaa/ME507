@@ -1,0 +1,8 @@
+../Drivers/motor/MOTOR_DRIVER.c:11:6:startm	56	static
+../Drivers/motor/MOTOR_DRIVER.c:47:6:stopm	24	static
+../Drivers/motor/MOTOR_DRIVER.c:69:6:drivefwd_RHS	24	static
+../Drivers/motor/MOTOR_DRIVER.c:77:6:driverev_RHS	24	static
+../Drivers/motor/MOTOR_DRIVER.c:84:6:stop_RHS	4	static
+../Drivers/motor/MOTOR_DRIVER.c:96:6:drivefwd_LHS	24	static
+../Drivers/motor/MOTOR_DRIVER.c:104:6:driverev_LHS	24	static
+../Drivers/motor/MOTOR_DRIVER.c:112:6:stop_LHS	16	static

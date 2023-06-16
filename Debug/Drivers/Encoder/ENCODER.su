@@ -1,0 +1,2 @@
+../Drivers/Encoder/ENCODER.c:20:10:enc_display_pulses_LHS	16	static
+../Drivers/Encoder/ENCODER.c:41:10:enc_display_pulses_RHS	16	static
